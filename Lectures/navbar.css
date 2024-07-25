@@ -1,0 +1,27 @@
+*{
+    padding: 0%;
+    margin: 0px;
+    color: white;
+}
+
+#navbar{
+    height: 50px;
+    background-color: black;
+}
+
+button{
+    background-color: rgb(227, 176, 82);
+    color: black;
+}
+
+#logo{
+    color: rgb(220, 167, 69);
+}
+
+a{
+    margin-right: 190px;
+}
+
+input{
+    color: black;
+}
