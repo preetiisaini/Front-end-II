@@ -1,0 +1,20 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+#superhero{
+    background-color: cadetblue;
+    text-align: center;
+
+}
+.super{
+    color: darkseagreen;
+    font-weight: 500;
+}
+h1{
+    color: lightseagreen;
+    text-decoration: line-through;
+}
+input[type="text"]{
+    background-color: lightpink;
+}
