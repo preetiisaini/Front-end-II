@@ -1,0 +1,12 @@
+h3{
+    background-color: plum;
+    border: 2px slategrey;
+    padding: 10px;
+}
+p{
+    color: dimgray;
+    background-color: lightpink;
+}
+body{
+    background-image: url();
+}
