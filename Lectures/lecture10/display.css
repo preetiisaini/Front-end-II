@@ -1,0 +1,33 @@
+.box{
+    background-color: rgb(174, 77, 77, 0.75);
+
+    
+    /* rgba{0/1 for the lightness and darkness of the color respectively} */
+
+
+    color: white; 
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+
+}
+
+div{
+    background-color: palevioletred;
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block ;
+
+}
+
+#div1{
+    display: none;
+}
+
+#div2{
+    visibility: hidden;
+}
